@@ -55,7 +55,7 @@
 <summary>Me encontre | Reach me</summary>
 
 - **Email:** jvitor.infoassistent1@gmail.com
-- **LinkedIn:** https://linkedin.com/in/joão-vitor-a76b73268
+- **LinkedIn:** https://linkedin.com/in/juau-viitor02
 - **Lattes:** https://lattes.cnpq.br/5446082466618145
 
 </details>
