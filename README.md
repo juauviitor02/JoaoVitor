@@ -56,6 +56,7 @@
 
 - **Email:** jvitor.infoassistent1@gmail.com
 - **LinkedIn:** https://linkedin.com/in/joão-vitor-a76b73268
+- **Lattes:** https://lattes.cnpq.br/5446082466618145
 
 </details>
 
