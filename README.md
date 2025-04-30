@@ -15,7 +15,7 @@
 - Estudante de Desenvolvimento de Sistemas | Systems Development student.
 - Focado em Desenvolvimento Web e APIs | Focused on Web Development and APIs.
 - Atualmente aprendendo Python, Django e boas práticas de programação | Currently learning Python, Django and best programming practices.
-- Apaixonado por tecnologia, inovação e backend | Passionate about technology, innovation, and backend development.
+- Apaixonado por tecnologia, inovação e Full Stack| Passionate about technology, innovation, and Full Stack development.
 - Aberto a colaborações e projetos desafiadores | Open to collaborations and challenging projects.
 
 </details>
@@ -43,7 +43,7 @@
 <summary>Detalhes | Details</summary>
 
 - Estágio ou projetos de desenvolvimento web | Internship or web development projects.
-- Crescimento contínuo como desenvolvedor backend | Continuous growth as a backend developer.
+- Crescimento contínuo como desenvolvedor Full Stack| Continuous growth as a Full Stack developer.
 
 </details>
 
